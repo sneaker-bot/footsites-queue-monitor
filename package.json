@@ -1,0 +1,16 @@
+{
+  "name": "queue-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "backenddev",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "util": "^0.12.3",
+    "webhook-discord": "^3.7.7"
+  }
+}
