@@ -69,7 +69,7 @@ async function monitor(){
 
 	var status_code = get.statusCode; 
 
-	if(status_code == 503){
+	if(status_code == 529){
 
 		monitor_status = false;
 		await monitor();
